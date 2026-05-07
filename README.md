@@ -50,12 +50,12 @@ AgendaPlus/
 
 - **Linguagem:** C (padrão C99)
 - **Bibliotecas:** `stdio.h`, `stdlib.h`, `string.h`, `time.h`
-- **Persistência:** Arquivos CSV com delimitador customizável
+- **Persistência:** Arquivos CSV
 - **Compilador recomendado:** GCC
 
 ---
 
-## ▶Como Compilar e Executar
+## Como Compilar e Executar
 
 ### Pré-requisitos
 - GCC instalado
