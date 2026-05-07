@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27463924/README.md)
 # AgendaPlus
 
 Sistema de agenda pessoal desenvolvido em C, com gerenciamento (CRUD) de contatos e atividades, manutenção de dados em CSV e organização automatizada.
